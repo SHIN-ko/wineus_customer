@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wineus_customer/static/css/main.63254e10.chunk.css",
+    "main.js": "/wineus_customer/static/js/main.6f9994f7.chunk.js",
+    "main.js.map": "/wineus_customer/static/js/main.6f9994f7.chunk.js.map",
+    "runtime-main.js": "/wineus_customer/static/js/runtime-main.820e1fad.js",
+    "runtime-main.js.map": "/wineus_customer/static/js/runtime-main.820e1fad.js.map",
+    "static/css/2.52b880c1.chunk.css": "/wineus_customer/static/css/2.52b880c1.chunk.css",
+    "static/js/2.167dca69.chunk.js": "/wineus_customer/static/js/2.167dca69.chunk.js",
+    "static/js/2.167dca69.chunk.js.map": "/wineus_customer/static/js/2.167dca69.chunk.js.map",
+    "index.html": "/wineus_customer/index.html",
+    "static/css/2.52b880c1.chunk.css.map": "/wineus_customer/static/css/2.52b880c1.chunk.css.map",
+    "static/css/main.63254e10.chunk.css.map": "/wineus_customer/static/css/main.63254e10.chunk.css.map",
+    "static/js/2.167dca69.chunk.js.LICENSE.txt": "/wineus_customer/static/js/2.167dca69.chunk.js.LICENSE.txt",
+    "static/media/invoice.d1e34567.png": "/wineus_customer/static/media/invoice.d1e34567.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.820e1fad.js",
+    "static/css/2.52b880c1.chunk.css",
+    "static/js/2.167dca69.chunk.js",
+    "static/css/main.63254e10.chunk.css",
+    "static/js/main.6f9994f7.chunk.js"
+  ]
+}
