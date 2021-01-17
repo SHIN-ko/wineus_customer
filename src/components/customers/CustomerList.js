@@ -62,7 +62,7 @@ const CustomerItem = ({ customer}) => {
 
 
 
-  const { publishedDate, user, name, contactNumber, advancedNumber, address, extra, _id } = customer;
+  const { publishedDate, user, name, contactNumber, address, extra, _id } = customer;
   return (
     <CustomerItemBlock>
       <h2>
